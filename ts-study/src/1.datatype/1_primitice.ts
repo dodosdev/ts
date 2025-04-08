@@ -3,6 +3,11 @@
  * 변수 정의 : const(let) 변수명:타입정의 = 값;
  */
 
+//https://www.typescriptlang.org/ko/docs/handbook/2/basic-types.html
+
+
+
+
 //정수형 데이터
 let number1: number = 100;
 number1 = 200
