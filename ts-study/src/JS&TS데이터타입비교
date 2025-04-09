@@ -29,7 +29,6 @@ Union Type(유니온 타입)            ❌                         ⭕
 
 
 
-
 ; class User = {}
 
 ; const getName<user:User> = () => {}
